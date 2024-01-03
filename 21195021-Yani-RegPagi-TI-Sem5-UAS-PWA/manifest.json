@@ -1,0 +1,17 @@
+{
+    "name": "UAS PWA",
+    "short_name": "UAS YANI",
+    "icons": [{
+      "src": "/img/work1.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose":"any maskable"
+    }],
+   
+    
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+  }
